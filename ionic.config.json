@@ -1,0 +1,8 @@
+{
+  "name": "eriks-blue-radar-angular-ng",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "014fd422"
+}
